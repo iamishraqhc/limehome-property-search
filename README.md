@@ -28,9 +28,9 @@ Finally, run:
 
 ### How to start the client
 
-Once this repo is cloned, open a terminal and run the command:
+Open another terminal and run the command:
 
-#### "cd cleint"
+#### "cd client"
 
 Then run:
 
