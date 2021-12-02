@@ -18,7 +18,7 @@ Once this repo is cloned, open a terminal and run the command:
 
 Then run:
 
-#### "npm init"
+#### "npm install"
 
 Then create a .env file and duplicate the .env.sample file. Make sure to change the <API_URL> with the real url.
 
@@ -34,7 +34,7 @@ Once this repo is cloned, open a terminal and run the command:
 
 Then run:
 
-#### "npm init"
+#### "npm install"
 
 Finally, run:
 
